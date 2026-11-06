@@ -12,9 +12,7 @@ public class DatabaseManager {
 
 private final Properties prop;
 
-    //    String urlBase = "jdbc:mysql://localhost:3306/";
-//    String user = "root";
-//    String pass = "passtlotrehp22!";
+
 
     public DatabaseManager() {
         prop = new Properties();
